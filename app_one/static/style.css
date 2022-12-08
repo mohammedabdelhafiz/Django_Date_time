@@ -1,0 +1,17 @@
+h2 {
+    color: brown;
+}
+
+#container {
+    margin-left: 38%;
+    margin-top: 15%;
+    width: 20%;
+    height: 35%;
+    border: solid;
+    display: inline-block;
+}
+
+
+#mini_cont , #time_cont{
+    border: solid;
+}
